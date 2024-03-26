@@ -3,6 +3,7 @@
 
 #Run these lines in the terminal 
 #% /Users/phuong/Desktop/google-cloud-sdk/bin/gcloud init
+
 #/Users/phuong/Desktop/google-cloud-sdk/bin/gsutil 
 
 
